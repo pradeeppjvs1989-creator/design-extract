@@ -47,5 +47,8 @@
     "visual-diff"
   ],
   "author": "masyv",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "headroom-ai": "^0.22.4"
+  }
 }
